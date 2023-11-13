@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '💝 *•.¸♡ ＳＡＤＵＰＡ ＭＤ ＷＰ ＢＯＴ ♡¸.•* 💝'
 global.premium = 'true'
 global.packname = '💝 Queen Hentai 💝 Created By 💝 zadupa²⁰²³ 💝' 
 global.author = '💝 zadupa²⁰²³ 💝' 
